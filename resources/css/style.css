@@ -31,3 +31,15 @@ p a{
 p{
   font-size: 14px;
 }
+
+.break{
+  color: white;
+  background-image: url('../images/the-flatiron-building.png');
+}
+
+.linkbar{
+  font-size: 36px;
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+}
